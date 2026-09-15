@@ -1,142 +1,172 @@
-Hi, I'm Sunil Chamoli 👋
+<div align="center">
 
-Associate Developer | MERN Stack | Python Automation
+👋 Hi, I'm Sunil Chamoli
 
-I'm an Associate Developer at Tech Mahindra with production experience building applications across the MERN stack — React.js, Node.js, Express.js, and MongoDB — along with working knowledge of Python, TypeScript, AWS, and SQL.
+Associate Developer · MERN Stack · Python Automation
 
-I enjoy turning real-world requirements into reliable, end-to-end solutions, from API and database design to frontend development and deployment.
+<a href="mailto:sunilchamoli5126@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-🚀 Impact: Built a Python automation tool that increased team productivity by 50% by replacing a repetitive, error-prone manual workflow with a scripted process.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Automating+repetitive+workflows+with+Python;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+learning+%26+building+%F0%9F%9A%80" alt="Typing SVG" />
 
-🧑‍💻 About Me
+</div>
 
-💼 Associate Developer @ Tech Mahindra
+⚡ About Me
 
-🌍 Based in Hyderabad, India
+💼  Associate Developer @ Tech Mahindra
+📍  Hyderabad, India
+🧩  MERN Stack + Python
+☁️  AWS: S3 • EC2 • CloudFront
+🏆  50% productivity increase through automation
+⭐  4-Star SQL — HackerRank
 
-⚡ Experienced with React.js, Node.js, Express.js, MongoDB, Redux, and REST APIs
+🧰 Tech I Use
 
-🤖 Interested in automation, full-stack development, and scalable web applications
+<p align="center">
 
-☁️ Working knowledge of AWS — S3, EC2, and CloudFront
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,nodejs,express,mongodb,mysql,aws,git,github,html,css" />
 
-🧠 4-Star SQL rating on HackerRank
+</p>
 
-🎓 B.Tech in Computer Science & Engineering at Lovely Professional University
+🚀 Projects
 
-🛠️ Tech Stack
-
-Languages
-
-
-
-
-
-
-Frontend
-
-
-
-
-
-
-Backend & Database
-
-
-
-
-
-
-Cloud & Tools
-
-
-
-
-
-💼 Experience
-
-Associate Developer — Tech Mahindra
-
-March 2025 – Present
-
-Built a Python-based automation tool that reduced the time required to complete a manual process.
-
-Increased team productivity by 50% by automating a repetitive and error-prone workflow.
-
-Mapped existing workflows with stakeholders and converted them into scripted, repeatable processes.
-
-Improved reliability by fixing edge cases and refining logic based on user feedback after deployment.
-
-🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 📝 Test Environment Platform
 
-React.js • Node.js • Express.js • MongoDB • Redux • Axios
+Full-stack MCQ testing platform
 
-A full-stack MCQ testing platform focused on a secure and reliable online examination experience.
+React.js Node.js Express.js
+MongoDB Redux Axios
 
-🔐 Implemented user authentication and session handling
+🔐 Authentication & sessions
+📹 Camera + microphone integration
+⚡ Redux state management
+🔄 API communication with Axios
 
-📹 Integrated real-time camera and microphone access with live video preview
-
-⚙️ Managed application state using Redux
-
-🔄 Used Axios for reliable client-server communication
+</td>
+<td width="50%" valign="top">
 
 🌐 Social Media App
 
-MERN Stack — React.js • Node.js • Express.js • MongoDB
+MERN-based social platform
 
-A full-stack social media application built using the MERN ecosystem.
+React.js Node.js Express.js
+MongoDB
 
-🧩 Developed the backend using Node.js, Express.js, and MongoDB
+⚙️ Full-stack architecture
+🔗 REST-style backend communication
+🛠️ CORS configuration
+📦 MongoDB data layer
 
-⚛️ Built the frontend with React.js
+</td>
+</tr>
+</table>
 
-🔗 Resolved cross-origin communication issues by configuring CORS
+💼 Experience
 
-🏆 Achievements
+<details open>
+<summary><b>🏢 Associate Developer — Tech Mahindra</b> · Mar 2025 – Present</summary>
 
-📈 Increased team productivity by 50% through workflow automation
+<br>
 
-⭐ Earned a 4-Star Rating in SQL on HackerRank
+🐍 Built a Python automation tool for a manual workflow
+📈 Increased team productivity by 50%
+🔁 Converted repetitive work into scripted, repeatable processes
+🛠️ Improved reliability by handling edge cases and user feedback
 
-🤝 Completed cross-functional group projects during academic training
+</details>
+
+📊 GitHub Dashboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub Streak" />
+</p>
+
+🔧 Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+
+🏆 Highlights
+
+<p align="center">
+
+🚀 Impact
+
+⭐ Achievement
+
+☁️ Cloud
+
+🧑‍💻 Focus
+
+50% productivity gain
+
+4-Star SQL
+
+AWS
+
+Full Stack
+
+</p>
 
 📜 Certifications
 
-Introduction to MongoDB — MongoDB, July 2024
+<details>
+<summary>🎓 View certifications</summary>
 
-Server-side JavaScript with Node.js — NIIT, May 2024
+<br>
 
-Developing Front-End Apps with React.js — Meta, May 2024
+🍃 Introduction to MongoDB — MongoDB
+
+🟢 Server-side JavaScript with Node.js — NIIT
+
+⚛️ Developing Front-End Apps with React.js — Meta
+
+</details>
 
 🎓 Education
 
 B.Tech — Computer Science & Engineering
-Lovely Professional University, Punjab, India
-Aug 2022 – Present | CGPA: 7.11
-
-Relevant Coursework: Object-Oriented Programming, Data Structures & Algorithms
+Lovely Professional University · CGPA 7.11
 
 Diploma — Computer Science & Engineering
-Lovely Professional University, Punjab, India
-Aug 2020 – 2022 | CGPA: 8.4
+Lovely Professional University · CGPA 8.4
 
-📊 GitHub Focus
-
-I’m building my skills around:
-
-Full-Stack Development • MERN Stack • Python Automation • REST APIs • AWS • SQL
-
-🤝 Let's Connect
-
-I'm interested in connecting with developers, recruiters, and teams working on full-stack applications, automation, and software engineering.
-
-📧 Email: sunilchamoli5126@gmail.com
-💼 LinkedIn: Add your LinkedIn profile URL here
-💻 GitHub: Add your GitHub profile URL here
+📈 What I'm Building Toward
 
 <p align="center">
-  <i>"Build useful things. Automate the repetitive. Keep learning."</i>
+
+Full-Stack Development   Automation   REST APIs
+Cloud   Backend Engineering   Scalable Web Apps
+
 </p>
+
+<div align="center">
+
+🤝 Let's Connect & Build Something Cool
+
+<a href="mailto:sunilchamoli5126@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
+
+<br>
+
+<i>⚡ Code. Automate. Learn. Repeat.</i>
+
+</div>
