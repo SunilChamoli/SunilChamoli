@@ -1,172 +1,122 @@
 <div align="center">
 
-👋 Hi, I'm Sunil Chamoli
+👋 Hey, I'm Sunil
 
-Associate Developer · MERN Stack · Python Automation
+Developer • Builder • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+things+for+the+web+%F0%9F%9A%80;MERN+%2B+Python+%2B+Cloud;Learning%2C+building%2C+shipping." alt="Typing SVG" />
+
+<br>
 
 <a href="mailto:sunilchamoli5126@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/email-contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/linkedin-connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Automating+repetitive+workflows+with+Python;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+learning+%26+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
-⚡ About Me
+🧠 About
 
-💼  Associate Developer @ Tech Mahindra
-📍  Hyderabad, India
-🧩  MERN Stack + Python
-☁️  AWS: S3 • EC2 • CloudFront
-🏆  50% productivity increase through automation
-⭐  4-Star SQL — HackerRank
+const sunil = {
+  location: "Hyderabad, India",
+  role: "Associate Developer",
+  stack: ["React", "Node.js", "Express", "MongoDB"],
+  coding: ["JavaScript", "Python", "TypeScript", "SQL"],
+  cloud: ["AWS", "S3", "EC2", "CloudFront"],
+  mindset: "build → learn → improve → repeat"
+};
 
-🧰 Tech I Use
+⚙️ My Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,redux,nodejs,express,mongodb,mysql,aws,git,github,html,css" />
-
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,redux,nodejs,express,mongodb,aws,git,github,html,css" />
 </p>
 
-🚀 Projects
+🔥 Currently
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-📝 Test Environment Platform
+🏗️ BUILDING
 
-Full-stack MCQ testing platform
-
-React.js Node.js Express.js
-MongoDB Redux Axios
-
-🔐 Authentication & sessions
-📹 Camera + microphone integration
-⚡ Redux state management
-🔄 API communication with Axios
+Full-stack web apps
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-🌐 Social Media App
+🤖 EXPLORING
 
-MERN-based social platform
+Python automation
 
-React.js Node.js Express.js
-MongoDB
+</td>
+<td align="center" width="33%">
 
-⚙️ Full-stack architecture
-🔗 REST-style backend communication
-🛠️ CORS configuration
-📦 MongoDB data layer
+☁️ LEARNING
+
+Cloud & backend
 
 </td>
 </tr>
 </table>
 
-💼 Experience
+🚀 Things I Like Building
 
-<details open>
-<summary><b>🏢 Associate Developer — Tech Mahindra</b> · Mar 2025 – Present</summary>
+<div align="center">
 
-<br>
+⚛️ Frontend Experiences
+🔌 APIs & Backend Systems
+🗄️ Data-driven Apps
+🤖 Automation Tools
+☁️ Cloud-powered Projects
 
-🐍 Built a Python automation tool for a manual workflow
-📈 Increased team productivity by 50%
-🔁 Converted repetitive work into scripted, repeatable processes
-🛠️ Improved reliability by handling edge cases and user feedback
+</div>
 
-</details>
-
-📊 GitHub Dashboard
+📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" />
 </p>
 
-🔧 Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&theme=github-compact" width="95%" />
+</p>
 
-🏆 Highlights
+🧩 Featured Repositories
+
+Pin the projects you want visitors to see first.
+This section intentionally stays short — your repositories should tell the story.
 
 <p align="center">
 
-🚀 Impact
-
-⭐ Achievement
-
-☁️ Cloud
-
-🧑‍💻 Focus
-
-50% productivity gain
-
-4-Star SQL
-
-AWS
-
-Full Stack
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/⭐_Pinned_Projects-View_on_GitHub-161B22?style=for-the-badge&logo=github" />
+</a>
 
 </p>
 
-📜 Certifications
+🌱 Learning in Public
 
-<details>
-<summary>🎓 View certifications</summary>
-
-<br>
-
-🍃 Introduction to MongoDB — MongoDB
-
-🟢 Server-side JavaScript with Node.js — NIIT
-
-⚛️ Developing Front-End Apps with React.js — Meta
-
-</details>
-
-🎓 Education
-
-B.Tech — Computer Science & Engineering
-Lovely Professional University · CGPA 7.11
-
-Diploma — Computer Science & Engineering
-Lovely Professional University · CGPA 8.4
-
-📈 What I'm Building Toward
-
-<p align="center">
-
-Full-Stack Development   Automation   REST APIs
-Cloud   Backend Engineering   Scalable Web Apps
-
-</p>
+Full-stack        ███████████████░░░  building
+Backend           ████████████░░░░░░  improving
+Cloud             █████████░░░░░░░░░  exploring
+System Design     ███████░░░░░░░░░░░  learning
 
 <div align="center">
 
-🤝 Let's Connect & Build Something Cool
+👀 Thanks for stopping by
 
-<a href="mailto:sunilchamoli5126@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_TALK-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
+Code something useful. Ship it. Learn from it.
 
 <br>
 
-<i>⚡ Code. Automate. Learn. Repeat.</i>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF" />
 
 </div>
